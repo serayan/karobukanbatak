@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Karo Bukan Batak]]></title>
+  <link href="http://serayan.github.io/karobukanbatak/atom.xml" rel="self"/>
+  <link href="http://serayan.github.io/karobukanbatak/"/>
+  <updated>2013-10-15T16:23:50+07:00</updated>
+  <id>http://serayan.github.io/karobukanbatak/</id>
+  <author>
+    <name><![CDATA[Tommy S.]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Postingan Pertama Pake Octopress]]></title>
+    <link href="http://serayan.github.io/karobukanbatak/blog/2013/10/15/postingan-pertama-pake-octopress/"/>
+    <updated>2013-10-15T10:20:00+07:00</updated>
+    <id>http://serayan.github.io/karobukanbatak/blog/2013/10/15/postingan-pertama-pake-octopress</id>
+    <content type="html"><![CDATA[<p>Contoh membuat posting pertama pake Octopress. Disini bebas menuliskan apa saja sesuai dengan kreasi yang anda miliki :)
+Kalau mau menulis script bisa dengan cara dibawah ini</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>ini apa ya?</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://serayan.github.io/karobukanbatak/sitemap.xml 
